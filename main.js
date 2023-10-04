@@ -1,1 +1,1 @@
-const body = document.body.querySelector("buttom");
+const body = document.body.querySelector("button");
